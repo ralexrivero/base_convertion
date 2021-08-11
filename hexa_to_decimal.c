@@ -2,7 +2,7 @@
 #include <math.h>
 
 /**
- * hexToDec - convert base 10 to base 16
+ * hexToDec - convert base 16 to base 10
  * 
  */
 
